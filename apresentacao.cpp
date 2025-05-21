@@ -12,8 +12,8 @@ int main() {
     printf(" *  O   O  *  /                      \t    *  -   o  * /\n");
     printf("*     ^     *                              *     ~     *\n");
     printf("*   \\___/   *                              *  \\_v-v_/  *\n");
-    printf(" *         *                                *          * \n");
-    printf("  *       *                                  *        *  \n");
+    printf(" *         *                                *         * \n");
+    printf("  *       *                                  *       *  \n");
     printf("    *****                                      *****         \n");
 
     printf("\n\nVamos aprender um pouco sobre: \n[1.] - Git\n[2.] - GitHub\n[3.] - GitLab\n");
